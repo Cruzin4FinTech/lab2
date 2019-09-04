@@ -18,20 +18,22 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
+- Git is a tool to manage and track source code history.
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. Sharing code easily. 
-2. Collaboration. 
-3. Constructive criticism and learning. 
+1. GitHub allows users to find the best way to find solutions to problems at hand. 
+2. This is a central database of open source codes to allow others with similar problems to better each other's code.
+3. Clean audit trail to see how people have edited their codes and who/when edited it. 
 
 ## What is a Pull Request?
-a pull request lets other users know that youve made changes and what those changes are. 
+- Going over changes that were made in a file. Allows the user to point out the changes and discuss from either end (sender or the editor).
+
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- https://www.youtube.com/watch?v=SWYqp7iY_Tc
+- https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).
+(https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?w=1390&crop=1).
